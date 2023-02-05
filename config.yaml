@@ -73,11 +73,11 @@ params:
     imageTitle: my image
     buttons:
       - name: About me
-        url: about_me
+        url: /about_me
       - name: Projects
-        url: projects
+        url: /projects
       - name: Resume
-        url: resume/Resume_Yadan Luo.pdf
+        url: /resume/Resume_Yadan Luo.pdf
 
 
   socialIcons:
