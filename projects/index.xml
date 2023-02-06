@@ -49,7 +49,7 @@ was a psychometric instrument developed by Azadvar &amp;amp; Canossa (2018) to m
 .&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;data-analysis&#34;&gt;Data analysis&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Hierarchical Linear regression analysis&lt;/strong&gt; and &lt;strong&gt;logistic regression analysis&lt;/strong&gt; were applied to the data set to explore if player motivations were predictive of the in-game behaviors. An example of the R codes is displayed below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hierarchical Linear regression models&lt;/strong&gt; and &lt;strong&gt;logistic regression models&lt;/strong&gt; were applied to the data set to explore if player motivations were predictive of the in-game behaviors. An example of the R codes is displayed below.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#self-reported playtime
 summary(mod_selftime &amp;lt;- lm(log(Weekly_playtime) ~ Relatedness, data))
 
@@ -67,9 +67,8 @@ anova(mod_gp1,mod_gp2)
 &lt;p&gt;For game designers, the research provides an insight into specific associations between motives of player engagement and game mechanics, which could be utilized to strengthen desired in-game behaviors of players. For &lt;em&gt;The Division 2&lt;/em&gt; :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Storytelling establishes connection&lt;/strong&gt;: The more connected players feel with in-game characters, the more time they self-reported invested in the game.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Immersion could facilitate engagement&lt;/strong&gt;: if players are more immersed in the game, it is more likely for them to level up faster (i.e., invest more time
-during early stages)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Players purchase more content for challenges&lt;/strong&gt;: whether players buy season-pass can be significantly predicted by &lt;em&gt;Competence&lt;/em&gt; scores. “If I feel effective and capable while playing, I would buy more content.”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Immersion could facilitate engagement&lt;/strong&gt;: if players are more immersed in the game, it is more likely for them to level up faster, i.e., be more active.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Players purchase more content for challenges&lt;/strong&gt;: Whether players buy season-pass can be significantly predicted by &lt;em&gt;Competence&lt;/em&gt; scores. Which means the more players feel effective and capable while playing, the more likely they would purchase DLC.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
