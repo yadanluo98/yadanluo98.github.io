@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yadan Luo</title>
+    <link>https://yadanluo98.github.io/</link>
+    <description>Recent content on Yadan Luo</description>
+    <image>
+      <url>https://yadanluo98.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yadanluo98.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yadanluo98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://yadanluo98.github.io/about_me/</link>
+      <pubDate>Fri, 03 Feb 2023 11:20:43 +0100</pubDate>
+      
+      <guid>https://yadanluo98.github.io/about_me/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hi, I am Yadan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As a user researcher&lt;/strong&gt; 👧🏻&lt;/p&gt;
+&lt;p&gt;With working experiences at Ubisoft and an academic background in Cognitive Psychology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I enjoy conducting research with multi-methods, both qualitative and quantitative.&lt;/li&gt;
+&lt;li&gt;I have a strong interest in technology in general.&lt;/li&gt;
+&lt;li&gt;I am also a team player, I believe that collaboration can accomplish greatness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;As a person&lt;/strong&gt; 🎮&lt;/p&gt;
+&lt;p&gt;With a warm heart ❤️&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I love video games, sci-fi movies/books.&lt;/li&gt;
+&lt;li&gt;I have poor sense of direction.&lt;/li&gt;
+&lt;li&gt;I tried to write a novel 10³ times but failed 10³+1 times.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ha det bra!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    <item>
+      <title>Quantitative UX research - Tom Clancy&#39;s The Division 2</title>
+      <link>https://yadanluo98.github.io/projects/thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yadanluo98.github.io/projects/thesis/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This is the Master Thesis project that I completed at &lt;a href=&#34;https://www.massive.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Massive Entertainment - A Ubisoft Studio&lt;/a&gt;
+.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-objective&#34;&gt;Research objective&lt;/h2&gt;
+&lt;p&gt;Psychometrics tools (e.g., &lt;a href=&#34;https://quanticfoundry.com/#motivation-model&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gamer Motivation Model&lt;/a&gt;
+) could tell us why players want to play a certain game, and many studies have proven that player motivation is tightly interwined with players&amp;rsquo; self-reported behaviors. However, it is not very clear that how the motivations are reflected during actual gameplay. This research trageted on players of &lt;a href=&#34;https://www.ubisoft.com/en-gb/game/the-division/the-division-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Tom Clancy&amp;rsquo;s The Division 2&lt;/em&gt;&lt;/a&gt;
+, a tactical shooter action role-playing video game selling over 10 million copies worldwide, primarily aimed to address:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;How can players’ motivations of playing &lt;em&gt;The Division 2&lt;/em&gt; express in their actual gameplay?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-methods&#34;&gt;Research methods&lt;/h2&gt;
+&lt;p&gt;In this study, survey and telemetry data were utilized to operationalize the two main target variables: player motivation and player behavior.&lt;/p&gt;
+&lt;h3 id=&#34;survey&#34;&gt;Survey&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.diva-portal.org/smash/get/diva2:1399422/FULLTEXT01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Ubisoft Perceived Experiences Questionnaire (UPEQ)&lt;/a&gt;
+is a psychometric instrument developed by Azadvar &amp;amp; Canossa (2018) under the framework of Self-determination theory (SDT) to measure if the 4 basic psychological needs (&lt;em&gt;Autonomy,Competence, Relatedness, and Presence&lt;/em&gt;) are satisfied through playing video games. It contains 4 subscales and 24 items using 5-Likert scales.&lt;/p&gt;
+&lt;p&gt;The questionnair is originally in English. Validated by &lt;strong&gt;reliability test&lt;/strong&gt; and &lt;strong&gt;confirmatory factor analysis (CFA)&lt;/strong&gt;, the UPEQ was also translated into Chinese before the formal distribution for reaching out to a more diverse sample.&lt;/p&gt;
+&lt;h3 id=&#34;telemetry-data&#34;&gt;Telemetry data&lt;/h3&gt;
+&lt;p&gt;The aggregated game metrics below covered most in-game behaviors and could be categorized as 3 types: &lt;em&gt;playtime, progression, and DLC gameplay.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;game_metrics.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-collection&#34;&gt;Data collection&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The whole data collection process was GDPR-compliant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;10,000&lt;/strong&gt; random active players across the globe who at least played one time during the month prior to the survey distribution were selected as the sample pool. By tracking their user ids, the UPEQ survey plus several demographic questions were distributed to each player via their registered email through the CRM pipeline. The players were informed that the survey was targered on their play experiences of &lt;em&gt;The Division 2&lt;/em&gt;. The survey was distributed through &lt;em&gt;SurveyMonkey&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The telemetry data were extarcted through the offical game date bases. The survey responses were linked with the telemetry data by user ids.&lt;/p&gt;
+&lt;p&gt;269 players filled the survey, after cleaning outliers/over-consistent responses, 148 players remianed as the final sample size. The demographic characteristics of the respondents can be found &lt;a href=&#34;https://lup.lub.lu.se/student-papers/search/publication/9090576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+, &lt;strong&gt;35%&lt;/strong&gt;, &lt;strong&gt;26%&lt;/strong&gt;, &lt;strong&gt;24%&lt;/strong&gt; of the participants were from Europe, and the USA, the mainland of China, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;map.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;data-analysis&#34;&gt;Data analysis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hierarchical Linear regression models&lt;/strong&gt; and &lt;strong&gt;logistic regression models&lt;/strong&gt; were applied to the data set to explore if player motivations were predictive of the in-game behaviors. An example of the R codes is displayed below.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# self-reported playtime
+summary(mod_selftime &amp;lt;- lm(log(Weekly_playtime) ~ Relatedness, data))
+
+# tests to check multicollinearity, normality of the model
+shapiro.test(rstandard(mod_selftime))
+vif(mod_selftime)
+car::durbinWatsonTest(mod_selftime)
+
+# group playtime
+summary(mod_gp2 &amp;lt;- lm(playtime_gp ~ Playstyle+Closeness, data))
+summary(mod_gp1 &amp;lt;- lm(playtime_gp ~ Closeness, data))
+anova(mod_gp1,mod_gp2)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-findings&#34;&gt;Key findings&lt;/h2&gt;
+&lt;p&gt;For game designers, the research provides an insight into specific associations between motives of player engagement and game mechanics, which could be utilized to strengthen desired in-game behaviors of players.&lt;/p&gt;
+&lt;p&gt;For &lt;em&gt;The Division 2&lt;/em&gt;, the study found that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Emotional connections with the game would keep players play&lt;/strong&gt;: The more connected players feel with in-game characters, the more time they invested in the game.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;r1&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Immersion could facilitate engagement&lt;/strong&gt;: If players are more immersed in the game, it is more likely for them to level up faster, i.e., be more active.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;r2&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Players purchase more content for challenges&lt;/strong&gt;: Whether players buy season-pass can be significantly predicted by &lt;em&gt;Competence&lt;/em&gt; scores, which means the more players feel effective and capable while playing, the more likely they would purchase DLC.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+    <item>
+      <title>Usability Test - An unreleased AAA project</title>
+      <link>https://yadanluo98.github.io/projects/usability_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yadanluo98.github.io/projects/usability_test/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The project is still under development, therefore, only a general framework without details of the test is presented.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;executive-summary&#34;&gt;Executive summary&lt;/h2&gt;
+&lt;h3 id=&#34;research-objective&#34;&gt;Research objective&lt;/h3&gt;
+&lt;p&gt;Identify usability issues of the general gameplay experiences.&lt;/p&gt;
+&lt;p&gt;NB: Game appreciation is &lt;strong&gt;NOT&lt;/strong&gt; the aim of the current research since usability playthrough and appreciation playthrough would interfere with each other and harm reliability of the entire study.&lt;/p&gt;
+&lt;h3 id=&#34;key-insights&#34;&gt;Key insights&lt;/h3&gt;
+&lt;p&gt;Categorized by game features, Usability issues and what specifically caused such usability issues were found.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;target-user-profile&#34;&gt;Target user profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mix of casual players (&lt;em&gt;weekly gaming time 11-20 hours&lt;/em&gt;) and hardcore players (&lt;em&gt;weekly gaming time 30+ hours&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;At least played one game of the same genre.&lt;/li&gt;
+&lt;li&gt;Familiar with using Xbox controller.&lt;/li&gt;
+&lt;li&gt;N = 8~12&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-methods&#34;&gt;Research methods&lt;/h2&gt;
+&lt;p&gt;In-game characters/progression were set up prior to the playtest so that players did not have to start from the beginning and would be able to experience main features of the game. Players were informed that they could play the game in a way that they preferred (i.e., &lt;em&gt;following main quests is not a must&lt;/em&gt;) for 8 hours.&lt;/p&gt;
+&lt;h3 id=&#34;oberservation&#34;&gt;Oberservation&lt;/h3&gt;
+&lt;p&gt;Streaming with eye tracking was set up for each player for observation. Players&amp;rsquo; behaviors/expressions could tell us some major friction points regarding usability. In general, observation should cover &lt;em&gt;&amp;ldquo;what happened&amp;rdquo;&lt;/em&gt;,&lt;em&gt;&amp;ldquo;when/how it happend&amp;rdquo;&lt;/em&gt;, and sometimes &lt;em&gt;&amp;ldquo;why it happened&amp;rdquo;&lt;/em&gt;. The observation guideline is demonstrated below:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;observation.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;ad-hoc-interview&#34;&gt;Ad hoc interview&lt;/h3&gt;
+&lt;p&gt;During the playtest, players might be intervened and asked to explain what just happened in the game. This was for better understanding &lt;strong&gt;the reasons behind the issues that were observed&lt;/strong&gt;. We could get more reliable answers and avoid false positive (behavior that looks like an issue but is not) by condcuting ad hoc interviews. The interventions were only be performed if&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;information is missed regarding the observation.&lt;/li&gt;
+&lt;li&gt;players showed strong frustration or encountered a walkthrough breaker.&lt;/li&gt;
+&lt;li&gt;players were &lt;strong&gt;NOT&lt;/strong&gt; during a combat or any other intense gameplay.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The interviews were semi-structured and the general interview questions are presented as following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are you trying to do?&lt;/li&gt;
+&lt;li&gt;What are you going to do next?/What do you expect?&lt;/li&gt;
+&lt;li&gt;What is the blocker here? (&lt;em&gt;if any&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Do you notice the icon/understand that you need to press&amp;hellip;? (&lt;em&gt;if it is related to UI/control&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;How does this affect you to achieve your objective?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;My role&lt;/h2&gt;
+&lt;p&gt;User research moderator&lt;/p&gt;
+&lt;p&gt;Responsible for: tech set up for the playtest, troubleshooting, observation, conducting interviews, and summarizing the qualitative data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
