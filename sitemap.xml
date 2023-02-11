@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yadanluo98.github.io/projects/thesis/</loc>
+  </url><url>
+    <loc>https://yadanluo98.github.io/projects/usability_test/</loc>
+  </url><url>
+    <loc>https://yadanluo98.github.io/projects/appreciation_test/</loc>
+  </url><url>
     <loc>https://yadanluo98.github.io/about_me/</loc>
     <lastmod>2023-02-03T11:20:43+01:00</lastmod>
   </url><url>
@@ -11,13 +17,9 @@
   </url><url>
     <loc>https://yadanluo98.github.io/projects/</loc>
   </url><url>
-    <loc>https://yadanluo98.github.io/projects/thesis/</loc>
-  </url><url>
     <loc>https://yadanluo98.github.io/search/</loc>
   </url><url>
     <loc>https://yadanluo98.github.io/tags/</loc>
-  </url><url>
-    <loc>https://yadanluo98.github.io/projects/usability_test/</loc>
   </url><url>
     <loc>https://yadanluo98.github.io/</loc>
   </url>
